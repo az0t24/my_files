@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyFiles</string>
+
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="last_modified">Last modified</string>
+    <string name="file_extension">File extension</string>
+
+    <string name="sort_by">Sort by</string>
+    <string name="back">Back</string>
+    <string name="show_updated">Show updated</string>
+
+    <string name="jpg">jpg</string>
+    <string name="png">png</string>
+    <string name="pdf">pdf</string>
+    <string name="jpeg">jpeg</string>
+    <string name="txt">txt</string>
+    <string name="zip">zip</string>
+    <string name="apk">apk</string>
+    <string name="mp3">mp3</string>
+    <string name="mp4">mp4</string>
+
+    <string name="data_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="accept_preferences">Предоставить</string>
+    <string name="dismiss_preferences">Отклонить</string>
+    <string name="permissions_request">Для отображения всех файлов, необходимо предоставить приложению разрешения</string>
+</resources>
