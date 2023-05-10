@@ -72,6 +72,8 @@ dependencies {
 
     // Room
     implementation("androidx.room:room-runtime:${rootProject.extra["roomVersion"]}")
+    testImplementation("junit:junit:4.12")
+    androidTestImplementation("junit:junit:4.12")
     annotationProcessor("androidx.room:room-compiler:${rootProject.extra["roomVersion"]}")
     ksp("androidx.room:room-compiler:${rootProject.extra["roomVersion"]}")
     implementation("androidx.room:room-ktx:${rootProject.extra["roomVersion"]}")
